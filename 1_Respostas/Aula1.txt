@@ -2,17 +2,17 @@
 Sistemas embarcados sao sistemas computacionais ditos completos a qual estao incluidos software e hardware para uma determinada aplicacao.
 
 2.O que são sistemas microprocesssados?
-Sistemas microprocessados sao microproceadores a qual realizam o armazenamento, o processamento e o controle das informacoes.
+Sistemas microprocessados sao microprocessadores a qual realizam o armazenamento, o processamento e o controle das informacoes.
 
 3.Apresente aplicações de sistemas embarcados: 
 (a) para a indústria automotiva; Injecao eletronica, alarmes, controle de tracao, central multimidia dentre outros.
 (b) para eletrodomésticos; Smart TV, Microondas, Maquina de lavar dentre outros.
-(c) para automação industrial. Velocidade da producao, Seguranca operacional dentre outros.
+(c) para automação industrial; Velocidade da producao, Seguranca operacional dentre outros.
 
 4.Cite arquiteturas possíveis e as diferenças entre elas.
-Existem dois tipos de arquiteturas, arquitetura havard e arquitetura Von Neumann, a arquitetura havard(PICs, Intel 805I, ARM9) permite
-leitura simultanea de dados e do programa alem de permite barrametos de dados e programas separadamente otimizados. Guarda dados constantes
-na memoria de programa o que requer instrucoes especificas. Ja a arquitetura von Neumann(MSP430, Freescale, HCS08, ARM7) apresenta uma arquitetura mais simples e menos eficiente que a havard.
+ISA- Instruction Set Architecture- interface entre hardware e software que especificam funcionalidades de um processador.
+CISC- Complex Instruction Set Computer- completa uma tarefa com o menor numero possivel de linhas em Assembly.
+RISC- Reduced Instruction Set Computer- utiliza instrucoes mais simples e divide uma tarefa usando varias instrucoes. 
 
 5.Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
 Utilizaremos o MSP430 devido ao seu custo baixo de aquisicao, de facil aprendizagem e por utilizar as linguagem C e Assembly.
