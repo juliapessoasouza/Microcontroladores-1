@@ -10,6 +10,9 @@ Sistemas microprocessados sao microproceadores a qual realizam o armazenamento, 
 (c) para automação industrial. Velocidade da producao, Seguranca operacional dentre outros.
 
 4.Cite arquiteturas possíveis e as diferenças entre elas.
- 
+Existem dois tipos de arquiteturas, arquitetura havard e arquitetura Von Neumann, a arquitetura havard(PICs, Intel 805I, ARM9) permite
+leitura simultanea de dados e do programa alem de permite barrametos de dados e programas separadamente otimizados. Guarda dados constantes
+na memoria de programa o que requer instrucoes especificas. Ja a arquitetura von Neumann(MSP430, Freescale, HCS08, ARM7) apresenta uma arquitetura mais simples e menos eficiente que a havard.
+
 5.Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
 Utilizaremos o MSP430 devido ao seu custo baixo de aquisicao, de facil aprendizagem e por utilizar as linguagem C e Assembly.
