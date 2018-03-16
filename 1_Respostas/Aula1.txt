@@ -16,3 +16,4 @@ RISC- Reduced Instruction Set Computer- utiliza instrucoes mais simples e divide
 
 5.Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
 Utilizaremos o MSP430 devido ao seu custo baixo de aquisicao, de facil aprendizagem e por utilizar as linguagem C e Assembly.
+http://www.instructables.com/id/Two-axis-solar-tracking-system-using-msp430/
